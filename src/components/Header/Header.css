@@ -1,0 +1,42 @@
+.Container {
+  display: flex;
+  background-color: rgb(174, 193, 209);
+  padding-left: 70px;
+  gap: 135px;
+}
+.Name {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+  color: rgb(94, 54, 2);
+  cursor: pointer;
+  
+}
+.form {
+  display: flex;
+  height: 30px;
+  padding-top: 22px;
+  gap: 5px;
+}
+.search {
+  background-color: rgb(213, 223, 223);
+  border: 3px silver;
+  border-radius: 5px;
+  height: 50px;
+  width: 250px;
+  font-size: medium;
+}
+.button {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(213, 223, 223);
+  border: 3px silver;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.AboutSignUpSignIn {
+  text-decoration: none;
+  display: flex;
+  padding-top: 20px;
+  color: brown;
+  cursor: pointer;
+}
